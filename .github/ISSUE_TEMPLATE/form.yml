@@ -1,4 +1,4 @@
-name: "🐞 Bug or error report"
+name: "🐞 Bug or anomaly report"
 title: "[BUG] <title>"
 description: "Report an anomaly or unexpected behavior with a sample from this repository."
 labels: ["bug"]
