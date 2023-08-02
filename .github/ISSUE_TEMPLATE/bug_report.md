@@ -1,38 +1,50 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+## 🐞 Bug or error report
 
----
+### Description
+Report an anomaly or unexpected behavior with a sample from this repository.
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+Thank you for reporting a bug! Please provide the following details about the issue you encountered.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### Bug Report Form
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+#### Contact Details
+*Name or E-mail*: [Replace with your contact details]
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+#### Date of finding(s)
+*When did you bump into the bug?* [Replace with the date]
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+#### What happened?
+*Describe the observed behavior, why do you think your finding(s) was a bug?*
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+[Replace with the description of what happened]
 
-**Additional context**
-Add any other context about the problem here.
+#### Assess the criticality of the issue
+[Replace with the criticality level selected from the following options:]
+- [ ] Critical
+- [ ] High
+- [ ] Moderate
+- [ ] Low
+
+Let me help you decide the correct rating:
+**Critical** - The bug causes a complete system crash, data loss, or security breach, making the software unusable or poses a significant risk to users.
+**High** - The bug causes severe functionality issues, frequent crashes, or data corruption, impacting critical parts of the software.
+**Medium** - The bug causes moderate functionality issues, intermittent crashes, or minor data corruption, affecting non-critical parts of the software.
+**Low** - The bug causes minor functionality issues, cosmetic glitches, or minor inconveniences, not affecting critical aspects of the software.
+
+#### Steps to reproduce
+*How do you reproduce this? Please provide as much step-by-step detail as possible. Screenshots, additional files are very welcome as well!*
+
+1. [Replace with step 1]
+2. [Replace with step 2]
+3. [Replace with step 3]
+
+#### Expected behavior
+*What did you expect to happen when the reproduce steps are followed? Screenshots, additional files are very welcome as well!*
+
+[Replace with the expected behavior]
+
+#### Any suggestions for fix
+*Provide technical or high-level suggestions for the fix*
+
+[Replace with your suggestions for the fix. For example: Set the screen brightness above 55% to provide better visibility for the texts.]
+
