@@ -18,12 +18,12 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: date
     id: when
     attributes:
       label: Date of finding(s)
       description: When did you bump into the bug?
-      placeholder: "ex. 2023-08-02"
+      placeholder: "Select the date from the pop-up calendar"
     validations:
       required: true
 
@@ -80,6 +80,6 @@ body:
     attributes:
       label: Any suggestions for fix
       description: Provide technical or high-level suggestions for the fix
-      placeholder: "ex. Set the screen brightness above 55% to provide better visibility of the text."
+      placeholder: "ex. Set the screen brightness above 55% to provide better visibility for the texts."
     validations:
       required: false
