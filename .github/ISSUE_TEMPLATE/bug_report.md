@@ -1,4 +1,4 @@
-## 🐞 Bug or error report
+## 🐞 Anomaly report
 
 ### Description
 Report an anomaly or unexpected behavior with a sample from this repository.
