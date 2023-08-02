@@ -82,4 +82,3 @@ body:
       placeholder: ex. Set the screen brightness above 55% to provide better visiblity of the text.
     validations:
       required: false
-
