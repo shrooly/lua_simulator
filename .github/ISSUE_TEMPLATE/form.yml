@@ -46,10 +46,10 @@ body:
       - Moderate
       - Low
     description: Let me help you decide the correct rating.  
-                 Critical: The bug causes a complete system crash, data loss, or security breach, making the software unusable or poses a significant risk to users.
-                 High: The bug causes severe functionality issues, frequent crashes, or data corruption, impacting critical parts of the software.
-                 Medium: The bug causes moderate functionality issues, intermittent crashes, or minor data corruption, affecting non-critical parts of the software.
-                 Low: The bug causes minor functionality issues, cosmetic glitches, or minor inconveniences, not affecting critical aspects of the software.
+                 Critical - The bug causes a complete system crash, data loss, or security breach, making the software unusable or poses a significant risk to users.
+                 High - The bug causes severe functionality issues, frequent crashes, or data corruption, impacting critical parts of the software.
+                 Medium - The bug causes moderate functionality issues, intermittent crashes, or minor data corruption, affecting non-critical parts of the software.
+                 Low - The bug causes minor functionality issues, cosmetic glitches, or minor inconveniences, not affecting critical aspects of the software.
   validations:
     required: true
 
